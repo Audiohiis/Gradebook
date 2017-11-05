@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\TPT\Progemine\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\user\Desktop\TPT\Progemine\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\user\Desktop\TPT\Progemine\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TPT\Progemine\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TPT\Progemine\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\user\Desktop\TPT\Progemine\Grades\Grades\obj\Debug\Grades.pdb
